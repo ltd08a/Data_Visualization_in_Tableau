@@ -1,4 +1,4 @@
-# Data_Visualization_in_Tableau
+# Data Visualization in Tableau
 ### Project Description
 This project was completed for the Udacity course Data Visualization. Tableau is used to explore the demographical census data and uncover different trends using visualizations and an interactive dashboard. 
 ### Environment(s)
